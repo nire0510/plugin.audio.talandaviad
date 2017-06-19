@@ -2,7 +2,7 @@
 <addon id="plugin.audio.talandaviad" name="Tal &amp; Aviad" version="0.0.1" provider-name="ECO 99FM">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.beautifulsoup4" version="4.6.0"/>
+        <import addon="script.module.beautifulsoup4" version="4.3.2"/>
         <import addon="script.module.requests" version="2.18.1"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
